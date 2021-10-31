@@ -1,0 +1,35 @@
+.mask-rb {
+  //   -webkit-mask-image: -webkit-gradient(
+  //     linear,
+  //     left top,
+  //     right bottom,
+  //     from(rgba(0, 0, 0, 1)),
+  //     to(rgba(0, 0, 0, 0))
+  //   );
+  -webkit-mask-image: -webkit-linear-gradient(
+    left top,
+    black 50%,
+    rgba(0, 0, 0, 0.5)
+  );
+}
+
+.mask-b {
+  //   -webkit-mask-image: -webkit-gradient(
+  //     linear,
+  //     left top,
+  //     right bottom,
+  //     from(rgba(0, 0, 0, 1)),
+  //     to(rgba(0, 0, 0, 0))
+  //   );
+  -webkit-mask-image: -webkit-linear-gradient(top, black, rgba(0, 0, 0, 0.8));
+}
+
+.art_circle {
+  stroke: black;
+  stroke-width: 3;
+  stroke-dasharray: 383;
+  stroke-dashoffset: 50;
+  fill: none;
+  transform: rotate(225deg);
+  transform-origin: center;
+}
