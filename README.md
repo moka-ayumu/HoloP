@@ -20,4 +20,5 @@ Typescript, Electron, React, Redux
 - [x] Playlist
 - [ ] Playlist save & edit ...
 - [ ] Lyrics
+- [ ] Link with Windows (NodeRT)
 - [ ] etc
