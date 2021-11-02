@@ -11,6 +11,9 @@
 ## Description
 VTuber Songs Player etc...
 
+## Technology Stack
+Typescript, Electron, React, Redux
+
 ## Functions (To Do)
 - [x] Import datas from Holodex API
 - [x] Player
